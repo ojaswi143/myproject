@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "109841496415",
+    "firebase_url": "https://redeye-9b5a5.firebaseio.com",
+    "project_id": "redeye-9b5a5",
+    "storage_bucket": "redeye-9b5a5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:109841496415:android:7a087b5cb045598aea5eea",
+        "android_client_info": {
+          "package_name": "com.example.redeye"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "109841496415-mr19kml5g53cp5bcvt5h0s5ejf3q4hct.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.redeye",
+            "certificate_hash": "a339aee16a7dc97b3e0ba531d371b9d22e92fdb8"
+          }
+        },
+        {
+          "client_id": "109841496415-o5fm5t8f5vcsba2rm1eu3pr535mevtj5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD84MUoYbItfCT_9ZG9Jw6aGvi2W0SyOlk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "109841496415-o5fm5t8f5vcsba2rm1eu3pr535mevtj5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
