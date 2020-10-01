@@ -38,6 +38,7 @@ public class MainActivity extends AppCompatActivity {
                 case 1: return  Camerafragment.newInstance();
 
                 case 3:return  Storyfragment.newInstance();
+                case 4: return 0;
 
             }
             return null;
